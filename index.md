@@ -11,6 +11,8 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
 fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
 culpa qui officia deserunt mollit anim id est laborum.
 
+ពិន្ទុ​ដែល​ស្ថាប័ន​នេះ​ដាក់​ខ្ពស់​បំផុត​គឺ​១០០ពិន្ទុ។ ចំពោះ​បណ្ដា​ប្រទេស​នៅ​តំបន់​អាស៊ាន​គឺ​សិង្ហបុរី​ស្ថិត​នៅ​លំដាប់​លេខ​ប្រាំ​ក្នុង​ចំណោម​ប្រ​ទេស​ទាំង​១០០​ដែល​ស្ថាប័ន​នេះបាន​សិក្សា ដោយ​បាន​ពីន្ទុ​៦៦,៨២ តាមពីក្រោយ​ដោយ​ប្រទេស​ហ្វីលីពីន​នៅ​លំដាប់​លេខ២០ បានពិន្ទុ​៦០,២៤ និង​បន្ទាប់​​មកទៀត​គឺ​ម៉ាឡេស៊ី នៅ​លំដាប់​លេខ​២៦ បានពីន្ទុ៥៨,២៥។​
+
 # [Makrdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 # H1
